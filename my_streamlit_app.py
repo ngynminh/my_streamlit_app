@@ -46,7 +46,8 @@ with col1:
 	st.title('') 
 	st.markdown('') 
 	st.markdown("""Between 1971 & 1983, the U.S. was the world leader in car manufacturing. 
-		Europe was in the second place, and was overtaken by Japan in 1978.
+		Europe held the second place until being overtaken by Japan in 1978. 
+		Japan lost its rank briefly in 1980, but recover swiftly. 
 	""")
 with col3:	
 
